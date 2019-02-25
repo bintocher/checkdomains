@@ -20,4 +20,4 @@ for v in {a..z}{a..z}{a..z}{a..z}; do
                 echo $fulldomain >> log.txt
         fi
 sleep 2s
-done                                                                                                                 
+done
